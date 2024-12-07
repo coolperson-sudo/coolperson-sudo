@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coolperson-sudo
+- 👋 Hi, I’m @coolperson-sudo (NooberGoober)
 - 👀 I’m interested in Roblox Exploiting
 - 🌱 I’m currently learning LUA
 
