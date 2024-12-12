@@ -1,5 +1,5 @@
 ### 👋 Hi i'm NooberGoober
-# Developer of msedge, script/executor. Snow Plow Simulator Script/Injector (msedge), and some C# projects. Like webhook spammer, YouTube Comment Spammer (private), and more!
+Developer of msedge, script/executor. Snow Plow Simulator Script/Injector (msedge), and some C# projects. Like webhook spammer, YouTube Comment Spammer (private), and more!
 ⛓️ What language do i know?
 About coding it's: LUA (LUAU), C#, HTML.
 And about real languages: Polish, English, Kinda german. 
