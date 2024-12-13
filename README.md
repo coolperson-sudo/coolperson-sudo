@@ -6,5 +6,6 @@ And about real languages: Polish, English, Kinda german.
 
 [📝My Website](https://msedgecontainer.github.io/)
 [🔵My Discord](https://discord.gg/nP4ZVx2mfB/)
+[🟣My ScriptBlox](https://scriptblox.com/u/noober)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolperson-sudo&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
